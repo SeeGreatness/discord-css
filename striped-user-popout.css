@@ -2,10 +2,10 @@
 
 @keyframes active-stripes {
   from {
-    background-position: 0px;
+    background-position: 40px;
   }
   to {
-    background-position: 40px;
+    background-position: 0px;
   }
 }
 
