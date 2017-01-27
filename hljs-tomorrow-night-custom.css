@@ -30,10 +30,6 @@
 .hljs-built_in {
   color: #999999 !important;
 }
-/* Type */
-.hljs-type {
-  color: #00FF00 !important;
-}
 
 /* Literal */
 /* Number */
@@ -128,7 +124,9 @@
 
 /* HLJS Markup */
 /* Bullets */
-.hljs-bullet {
+/* Type */
+.hljs-bullet,
+.hljs-type {
   color: #04AFBF !important;
   font-weight: bold !important;
 }
